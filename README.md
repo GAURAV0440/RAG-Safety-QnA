@@ -30,43 +30,40 @@ Step 5: API → ask questions via FastAPI endpoint /ask.
 Step 6: Evaluation → run prepared questions and compare baseline vs hybrid.
 
 ## Folder Structure
-
+<img width="590" height="498" alt="image" src="https://github.com/user-attachments/assets/208101dc-2cda-48d4-a373-c912ce960e52" />
 
 
 ## Setup Instructions
 
-Clone the repo and go to folder:
-
+1. Clone the repo and go to folder:
 git clone <repo-url>
 cd RAG-SAFETY-QNA
 
-Create virtual environment and install requirements:
-
+2. Create virtual environment and install requirements:
 python3 -m venv .venv
 source .venv/bin/activate
 
-pip install -r requirements.txt
+3. pip install -r requirements.txt
 
-Ingest PDFs into chunks:
+4. Ingest PDFs into chunks: (For once)
 python src/ingest.py
 
-Build FAISS index:
+5. Build FAISS index: (For once)
 python src/embed_index.py
 
-Run a quick search:
+6. Run a quick search: (For once)
 python src/search.py
 
-Test reranker:
+7. Test reranker: (For once)
 python src/reranker.py
 
-Run the FastAPI server:
+8. Run the FastAPI server:
 python src/api.py
-
 
 Open http://127.0.0.1:8000/docs
 to try /ask.
 
-Evaluate system:
+9. Evaluate system:
 python evaluation.py
 
 Results will be saved in evaluation_output.txt.
@@ -92,19 +89,18 @@ Example output:
 
 ### What I Learned
 
-How to build a mini RAG pipeline with ingestion, embeddings, and retrieval using FAISS.
+1. How to build a mini RAG pipeline with ingestion, embeddings, and retrieval using FAISS.
 
-The importance of a reranker (hybrid search with BM25 + vectors) to improve result quality.
+2. The importance of a reranker (hybrid search with BM25 + vectors) to improve result quality.
 
-How to design extractive answers with citations, keeping outputs grounded in source text.
+3. How to design extractive answers with citations, keeping outputs grounded in source text.
 
-The value of adding an abstain mechanism when evidence is weak, to keep answers honest.
+4. The value of adding an abstain mechanism when evidence is weak, to keep answers honest.
 
-How to structure a project into clear modules (ingest, embed_index, search, reranker, api, evaluation) for reproducibility.
+5. How to structure a project into clear modules (ingest, embed_index, search, reranker, api, evaluation) for reproducibility.
 
-Writing an evaluation script to compare baseline vs hybrid gave me insight into measuring improvements.
+6. Writing an evaluation script to compare baseline vs hybrid gave me insight into measuring improvements.
 
-Improved my skills with FastAPI, JSON APIs, and making outputs repeatable with proper seeds and thresholds.
+7. Improved my skills with FastAPI, JSON APIs, and making outputs repeatable with proper seeds and thresholds.
 
-
-## Thank You
+# Thank You

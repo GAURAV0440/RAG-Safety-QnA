@@ -30,7 +30,7 @@ Step 5: API → ask questions via FastAPI endpoint /ask.
 Step 6: Evaluation → run prepared questions and compare baseline vs hybrid.
 
 ## Folder Structure
-<img width="590" height="498" alt="image" src="https://github.com/user-attachments/assets/208101dc-2cda-48d4-a373-c912ce960e52" />
+<img width="590" height="523" alt="image" src="https://github.com/user-attachments/assets/da9c9005-2055-4887-84f2-ea01393e9760" />
 
 
 ## Setup Instructions

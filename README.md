@@ -75,25 +75,6 @@ python evaluation.py
 
 Results will be saved in evaluation_output.txt.
 
-Example query:
-POST /ask
-{
-  "q": "What are safety measures in industrial machinery?",
-  "k": 4,
-  "mode": "hybrid"
-}
-
-Example output:
-{
-  "answer": "The purpose of safety is to protect people and the environment from accidents [1] ...",
-  "contexts": [
-    { "rank": 1, "doc": "EN_TechnicalguideNo10_REVF.pdf", "score": 1.0, "url": "...", "text": "..." },
-    { "rank": 2, "doc": "rep22008e.pdf", "score": 0.72, "url": "...", "text": "..." }
-  ],
-  "reranker_used": "hybrid",
-  "abstained": false
-}
-
 ### What I Learned
 
 1. How to build a mini RAG pipeline with ingestion, embeddings, and retrieval using FAISS.

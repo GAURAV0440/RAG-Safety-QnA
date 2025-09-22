@@ -33,7 +33,7 @@ Step 6: Evaluation → run prepared questions and compare baseline vs hybrid.
 
 
 
-# Setup Instructions
+## Setup Instructions
 
 Clone the repo and go to folder:
 

@@ -32,6 +32,13 @@ Step 6: Evaluation → run prepared questions and compare baseline vs hybrid.
 ## Folder Structure
 <img width="590" height="523" alt="image" src="https://github.com/user-attachments/assets/da9c9005-2055-4887-84f2-ea01393e9760" />
 
+## Notes on Data
+
+- The assessment required **20 PDFs**, but I have also added some extra PDFs related to safety.  
+- I corrected the sources.json file because there were some mismatches between PDF filenames and their links.  
+- Now, every PDF has a proper entry with its title and working URL.  
+
+## How to Run
 
 ## Setup Instructions
 

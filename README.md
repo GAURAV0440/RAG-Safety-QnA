@@ -1,4 +1,4 @@
-### RAG-Safety-QnA
+# RAG-Safety-QnA
 
 This project is a mini RAG (Retrieval-Augmented Generation) + Reranker Q&A service.
 It answers questions from a small set of industrial and machinery safety PDFs.

@@ -1,0 +1,304 @@
+Q: What are safety measures in industrial machinery?  |  Mode: baseline
+Answer: the most rapidly growing areas of importance in industrial automation. PART 1 – THEORY AND BACKGROUND 7 — Safety and functional safety The purpose of safety is to protect people and the environment from accidents and risks caused by machines [1] the Machinery Directive for machines and safety com- ponents can be found in Annex I of the directive. In addition to general principles for the integration of safety this annex contains dedicated sections governing controls for machines and the requirements placed upon protective devices [2] and the severity of consequence. 6 Machine safety | Towards safe machinery: Risk assessment Globally, and almost without exception, statutory guidelines for the design and operation of machines mandate a risk assessment to identify potential hazards, minimize risks, and comply with applicable health [3]
+Top Doc: EN_TechnicalguideNo10_REVF.pdf
+Abstained: False
+Contexts:
+  - Rank: 1, Doc: EN_TechnicalguideNo10_REVF.pdf
+    Score: 0.4571
+    URL: https://drive.google.com/file/d/1wIsdkaj7bgWhIRFcuClxbn5rZMfXpBo8/view?usp=sharing
+    Text: the most rapidly growing areas of importance in industrial automation. PART 1 – THEORY AND BACKGROUND 7 — Safety and functional safety The purpose of safety is to protect people and the environment fr...
+  - Rank: 2, Doc: rep22008e.pdf
+    Score: 0.4625
+    URL: https://www.dguv.de/medien/ifa/en/pub/rep/pdf/rep07/biar0208/rep22008e.pdf
+    Text: the Machinery Directive for machines and safety com- ponents can be found in Annex I of the directive. In addition to general principles for the integration of safety this annex contains dedicated sec...
+  - Rank: 3, Doc: brochure-machine-safety-guide-pneumatic-solutions-en-7073434.pdf
+    Score: 0.5073
+    URL: https://www.emerson.com/documents/automation/brochure-machine-safety-guide-pneumatic-solutions-en-7073434.pdf
+    Text: and the severity of consequence. 6 Machine safety | Towards safe machinery: Risk assessment Globally, and almost without exception, statutory guidelines for the design and operation of machines mandat...
+------------------------------------------------------------
+
+Q: What are safety measures in industrial machinery?  |  Mode: hybrid
+Answer: the most rapidly growing areas of importance in industrial automation. PART 1 – THEORY AND BACKGROUND 7 — Safety and functional safety The purpose of safety is to protect people and the environment from accidents and risks caused by machines [1] the Machinery Directive for machines and safety com- ponents can be found in Annex I of the directive. In addition to general principles for the integration of safety this annex contains dedicated sections governing controls for machines and the requirements placed upon protective devices [2] services are delivered by experienced staff who are safety qualiﬁ ed; many with TÜV Rheinland Machinery Safety certiﬁ cations. Rockwell Automation employs people who are TÜV Functional Safety Experts, Engineers and Technicians to help customers with their holistic safety lifecycle [3]
+Top Doc: EN_TechnicalguideNo10_REVF.pdf
+Abstained: False
+Contexts:
+  - Rank: 1, Doc: EN_TechnicalguideNo10_REVF.pdf
+    Score: 1.0000
+    URL: https://drive.google.com/file/d/1wIsdkaj7bgWhIRFcuClxbn5rZMfXpBo8/view?usp=sharing
+    Text: the most rapidly growing areas of importance in industrial automation. PART 1 – THEORY AND BACKGROUND 7 — Safety and functional safety The purpose of safety is to protect people and the environment fr...
+  - Rank: 2, Doc: rep22008e.pdf
+    Score: 0.7207
+    URL: https://www.dguv.de/medien/ifa/en/pub/rep/pdf/rep07/biar0208/rep22008e.pdf
+    Text: the Machinery Directive for machines and safety com- ponents can be found in Annex I of the directive. In addition to general principles for the integration of safety this annex contains dedicated sec...
+  - Rank: 3, Doc: safebk-rm002_-en-p.pdf
+    Score: 0.3889
+    URL: https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf
+    Text: services are delivered by experienced staff who are safety qualiﬁ ed; many with TÜV Rheinland Machinery Safety certiﬁ cations. Rockwell Automation employs people who are TÜV Functional Safety Experts,...
+------------------------------------------------------------
+
+Q: What steps are recommended for safe design and guarding of machinery?  |  Mode: baseline
+Answer: Training. The machine supplier must specify what is appropriate [1] Guidelines for Safe Machinery Six steps to a safe machine Six steps to a safe machine Forward P - 2 Six steps to a safe machine For safe machinery, the supplier and user need to work together from the beginning. There are regulations for the protection of user personnel [2] The use of personal protective equipment will not usually form the primary safeguarding method but will complement the measures shown above. There will also usually be a need for signs and marking to facilitate awareness of any residual risk [3]
+Top Doc: safebk-rm002_-en-p.pdf
+Abstained: False
+Contexts:
+  - Rank: 1, Doc: safebk-rm002_-en-p.pdf
+    Score: 0.5541
+    URL: https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf
+    Text: Training. The machine supplier must specify what is appropriate. Suitable materials should be used for construction and operation. Adequate lighting and handling facilities should be provided. Control...
+  - Rank: 2, Doc: GuidelinesForSafeMachinery.pdf
+    Score: 0.5570
+    URL: https://www.rae.ca/wp-content/uploads/GuidelinesForSafeMachinery.pdf
+    Text: Guidelines for Safe Machinery Six steps to a safe machine Six steps to a safe machine Forward P - 2 Six steps to a safe machine For safe machinery, the supplier and user need to work together from the...
+  - Rank: 3, Doc: safebk-rm002_-en-p.pdf
+    Score: 0.5810
+    URL: https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf
+    Text: The use of personal protective equipment will not usually form the primary safeguarding method but will complement the measures shown above. There will also usually be a need for signs and marking to ...
+------------------------------------------------------------
+
+Q: What steps are recommended for safe design and guarding of machinery?  |  Mode: hybrid
+Answer: Guidelines for Safe Machinery Six steps to a safe machine Six steps to a safe machine Forward P - 2 Six steps to a safe machine For safe machinery, the supplier and user need to work together from the beginning. There are regulations for the protection of user personnel [1] Training. The machine supplier must specify what is appropriate [2] The use of personal protective equipment will not usually form the primary safeguarding method but will complement the measures shown above. There will also usually be a need for signs and marking to facilitate awareness of any residual risk [3]
+Top Doc: GuidelinesForSafeMachinery.pdf
+Abstained: False
+Contexts:
+  - Rank: 1, Doc: GuidelinesForSafeMachinery.pdf
+    Score: 0.9690
+    URL: https://www.rae.ca/wp-content/uploads/GuidelinesForSafeMachinery.pdf
+    Text: Guidelines for Safe Machinery Six steps to a safe machine Six steps to a safe machine Forward P - 2 Six steps to a safe machine For safe machinery, the supplier and user need to work together from the...
+  - Rank: 2, Doc: safebk-rm002_-en-p.pdf
+    Score: 0.6349
+    URL: https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf
+    Text: Training. The machine supplier must specify what is appropriate. Suitable materials should be used for construction and operation. Adequate lighting and handling facilities should be provided. Control...
+  - Rank: 3, Doc: safebk-rm002_-en-p.pdf
+    Score: 0.4044
+    URL: https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf
+    Text: The use of personal protective equipment will not usually form the primary safeguarding method but will complement the measures shown above. There will also usually be a need for signs and marking to ...
+------------------------------------------------------------
+
+Q: What is functional safety and why is it important in machine design?  |  Mode: baseline
+Answer: must be designed with a level of integrity that is commensurate with the risks of the machine. Higher risks require higher integrity levels to ensure the performance of the safety function [1] — ABB DRIVES Technical guide No. 10 Functional safety 2 TECHNICAL GUIDE NO [2] from harm. Functional safety achieves this via systems that lower the probability of undesired events, thereby minimizing mishaps [3]
+Top Doc: safebk-rm002_-en-p.pdf
+Abstained: False
+Contexts:
+  - Rank: 1, Doc: safebk-rm002_-en-p.pdf
+    Score: 0.4089
+    URL: https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf
+    Text: must be designed with a level of integrity that is commensurate with the risks of the machine. Higher risks require higher integrity levels to ensure the performance of the safety function. Machine sa...
+  - Rank: 2, Doc: EN_TechnicalguideNo10_REVF.pdf
+    Score: 0.4424
+    URL: https://drive.google.com/file/d/1wIsdkaj7bgWhIRFcuClxbn5rZMfXpBo8/view?usp=sharing
+    Text: — ABB DRIVES Technical guide No. 10 Functional safety 2 TECHNICAL GUIDE NO. 10 FUNCTIONAL SAFETY — Functional safety Functional safety in machinery usually means systems that safely monitor and, when ...
+  - Rank: 3, Doc: Safety and functional safety, A general guide.pdf
+    Score: 0.4889
+    URL: https://drive.google.com/file/d/10vTUMauo8Ge-sfVPZGS5S3KDiKnZCJeW/view?usp=sharing
+    Text: from harm. Functional safety achieves this via systems that lower the probability of undesired events, thereby minimizing mishaps. Safety standards define safety as freedom from unacceptable risk. The...
+------------------------------------------------------------
+
+Q: What is functional safety and why is it important in machine design?  |  Mode: hybrid
+Answer: must be designed with a level of integrity that is commensurate with the risks of the machine. Higher risks require higher integrity levels to ensure the performance of the safety function [1] injury from machine operation increases. Defining a safety function always includes two components: • required action (what must be done to reduce the risk) and • safety performance (Safety Integrity Level – SIL or Performance Level – PL) [2] from harm. Functional safety achieves this via systems that lower the probability of undesired events, thereby minimizing mishaps [3]
+Top Doc: safebk-rm002_-en-p.pdf
+Abstained: False
+Contexts:
+  - Rank: 1, Doc: safebk-rm002_-en-p.pdf
+    Score: 1.0000
+    URL: https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf
+    Text: must be designed with a level of integrity that is commensurate with the risks of the machine. Higher risks require higher integrity levels to ensure the performance of the safety function. Machine sa...
+  - Rank: 2, Doc: EN_TechnicalguideNo10_REVF.pdf
+    Score: 0.5436
+    URL: https://drive.google.com/file/d/1wIsdkaj7bgWhIRFcuClxbn5rZMfXpBo8/view?usp=sharing
+    Text: injury from machine operation increases. Defining a safety function always includes two components: • required action (what must be done to reduce the risk) and • safety performance (Safety Integrity ...
+  - Rank: 3, Doc: Safety and functional safety, A general guide.pdf
+    Score: 0.5200
+    URL: https://drive.google.com/file/d/10vTUMauo8Ge-sfVPZGS5S3KDiKnZCJeW/view?usp=sharing
+    Text: from harm. Functional safety achieves this via systems that lower the probability of undesired events, thereby minimizing mishaps. Safety standards define safety as freedom from unacceptable risk. The...
+------------------------------------------------------------
+
+Q: What are the essential requirements of the EU Machinery Regulation 2023?  |  Mode: baseline
+Answer: comply with the requirements of Regulation (EU) 2023/1230 and be accompanied by an EU Declaration of Conformity under that regulation. 3 The Machinery Regulation (EU) PG 2 Key Dates PG 3 Re-ordering of the annexes PG 4 Substantial Modifications PG 9 Compliance Route/ Fines & Penalties PG 10 OEM - Ca [1] A GUIDE TO THE MACHINERY REGULATION (EU) 2023/1230 Key changes and challenges As the “go to” document for machine builders, the European machinery directive lays out the minimum safety requirements for machinery. The last change to the directive was on 29 December 2009, when 2006/42/EC was introduce [2] Articles 6(4) and (5) OCTOBER 2026 Member States must notify the European Commission of their penalty rules and measures. Key dates The new Machinery Regulation (EU) 2023/1230 was published in the official journal on 29 June 2023, and entered into force on 19 July 2023, with a 42-month transition to [3]
+Top Doc: oem-sp123_-en-p.pdf
+Abstained: False
+Contexts:
+  - Rank: 1, Doc: oem-sp123_-en-p.pdf
+    Score: 0.5194
+    URL: https://literature.rockwellautomation.com/idc/groups/literature/documents/sp/oem-sp123_-en-p.pdf
+    Text: comply with the requirements of Regulation (EU) 2023/1230 and be accompanied by an EU Declaration of Conformity under that regulation. 3 The Machinery Regulation (EU) PG 2 Key Dates PG 3 Re-ordering o...
+  - Rank: 2, Doc: oem-sp123_-en-p.pdf
+    Score: 0.5243
+    URL: https://literature.rockwellautomation.com/idc/groups/literature/documents/sp/oem-sp123_-en-p.pdf
+    Text: A GUIDE TO THE MACHINERY REGULATION (EU) 2023/1230 Key changes and challenges As the “go to” document for machine builders, the European machinery directive lays out the minimum safety requirements fo...
+  - Rank: 3, Doc: oem-sp123_-en-p.pdf
+    Score: 0.5709
+    URL: https://literature.rockwellautomation.com/idc/groups/literature/documents/sp/oem-sp123_-en-p.pdf
+    Text: Articles 6(4) and (5) OCTOBER 2026 Member States must notify the European Commission of their penalty rules and measures. Key dates The new Machinery Regulation (EU) 2023/1230 was published in the off...
+------------------------------------------------------------
+
+Q: What are the essential requirements of the EU Machinery Regulation 2023?  |  Mode: hybrid
+Answer: A GUIDE TO THE MACHINERY REGULATION (EU) 2023/1230 Key changes and challenges As the “go to” document for machine builders, the European machinery directive lays out the minimum safety requirements for machinery. The last change to the directive was on 29 December 2009, when 2006/42/EC was introduce [1] comply with the requirements of Regulation (EU) 2023/1230 and be accompanied by an EU Declaration of Conformity under that regulation. 3 The Machinery Regulation (EU) PG 2 Key Dates PG 3 Re-ordering of the annexes PG 4 Substantial Modifications PG 9 Compliance Route/ Fines & Penalties PG 10 OEM - Ca [2] In order to achieve such goals, the functioning of the European Union is regulated by treaty as follows: The EU Commission or the Council of the European Union issues legal acts, including so-called directives, which define the basic objectives and requirements. The directives are kept technology-ne [3]
+Top Doc: oem-sp123_-en-p.pdf
+Abstained: False
+Contexts:
+  - Rank: 1, Doc: oem-sp123_-en-p.pdf
+    Score: 0.9681
+    URL: https://literature.rockwellautomation.com/idc/groups/literature/documents/sp/oem-sp123_-en-p.pdf
+    Text: A GUIDE TO THE MACHINERY REGULATION (EU) 2023/1230 Key changes and challenges As the “go to” document for machine builders, the European machinery directive lays out the minimum safety requirements fo...
+  - Rank: 2, Doc: oem-sp123_-en-p.pdf
+    Score: 0.7682
+    URL: https://literature.rockwellautomation.com/idc/groups/literature/documents/sp/oem-sp123_-en-p.pdf
+    Text: comply with the requirements of Regulation (EU) 2023/1230 and be accompanied by an EU Declaration of Conformity under that regulation. 3 The Machinery Regulation (EU) PG 2 Key Dates PG 3 Re-ordering o...
+  - Rank: 3, Doc: special_information_guide_for_safe_machinery_en_im0014678.pdf
+    Score: 0.4647
+    URL: https://www.sick.com/media/docs/8/78/678/special_information_guide_for_safe_machinery_en_im0014678.pdf
+    Text: In order to achieve such goals, the functioning of the European Union is regulated by treaty as follows: The EU Commission or the Council of the European Union issues legal acts, including so-called d...
+------------------------------------------------------------
+
+Q: What role does personal protective equipment (PPE) play in machinery safety?  |  Mode: baseline
+Answer: use of PPE is valued as a vital part of your company’s overall commitment to health and safety. In other words, to reap the rewards of your up-front capital investment in PPE, you should be willing to invest your employees’ time and effort on a daily basis [1] also can cause tool breakage and projection. What Controls Are Available to Help Protect My Employees from Machine Hazards? The preferred way to control hazards is through engineering or work practice controls [2] The use of personal protective equipment will not usually form the primary safeguarding method but will complement the measures shown above. There will also usually be a need for signs and marking to facilitate awareness of any residual risk [3]
+Top Doc: osha3157.pdf
+Abstained: False
+Contexts:
+  - Rank: 1, Doc: osha3157.pdf
+    Score: 0.5090
+    URL: https://www.osha.gov/sites/default/files/publications/osha3157.pdf
+    Text: use of PPE is valued as a vital part of your company’s overall commitment to health and safety. In other words, to reap the rewards of your up-front capital investment in PPE, you should be willing to...
+  - Rank: 2, Doc: osha3157.pdf
+    Score: 0.6063
+    URL: https://www.osha.gov/sites/default/files/publications/osha3157.pdf
+    Text: also can cause tool breakage and projection. What Controls Are Available to Help Protect My Employees from Machine Hazards? The preferred way to control hazards is through engineering or work practice...
+  - Rank: 3, Doc: safebk-rm002_-en-p.pdf
+    Score: 0.6411
+    URL: https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf
+    Text: The use of personal protective equipment will not usually form the primary safeguarding method but will complement the measures shown above. There will also usually be a need for signs and marking to ...
+------------------------------------------------------------
+
+Q: What role does personal protective equipment (PPE) play in machinery safety?  |  Mode: hybrid
+Answer: also can cause tool breakage and projection. What Controls Are Available to Help Protect My Employees from Machine Hazards? The preferred way to control hazards is through engineering or work practice controls [1] use of PPE is valued as a vital part of your company’s overall commitment to health and safety. In other words, to reap the rewards of your up-front capital investment in PPE, you should be willing to invest your employees’ time and effort on a daily basis [2] The use of personal protective equipment will not usually form the primary safeguarding method but will complement the measures shown above. There will also usually be a need for signs and marking to facilitate awareness of any residual risk [3]
+Top Doc: osha3157.pdf
+Abstained: False
+Contexts:
+  - Rank: 1, Doc: osha3157.pdf
+    Score: 0.7428
+    URL: https://www.osha.gov/sites/default/files/publications/osha3157.pdf
+    Text: also can cause tool breakage and projection. What Controls Are Available to Help Protect My Employees from Machine Hazards? The preferred way to control hazards is through engineering or work practice...
+  - Rank: 2, Doc: osha3157.pdf
+    Score: 0.6635
+    URL: https://www.osha.gov/sites/default/files/publications/osha3157.pdf
+    Text: use of PPE is valued as a vital part of your company’s overall commitment to health and safety. In other words, to reap the rewards of your up-front capital investment in PPE, you should be willing to...
+  - Rank: 3, Doc: safebk-rm002_-en-p.pdf
+    Score: 0.5731
+    URL: https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf
+    Text: The use of personal protective equipment will not usually form the primary safeguarding method but will complement the measures shown above. There will also usually be a need for signs and marking to ...
+------------------------------------------------------------
+
+Q: What training and qualifications are required for safe machine operation?  |  Mode: baseline
+Answer: Training. The machine supplier must specify what is appropriate [1] typical applications. FOREWORD 6 S P E C I A L I N F O R M A T I O N | Guide for Safe Machinery 8007988/2024-10-21 | SICK Subject to change without notice For better orientation and guidance through the guide, we ha ve divided the path to a safe machine into 6 main steps [2] Guidelines for Safe Machinery Six steps to a safe machine Six steps to a safe machine Forward P - 2 Six steps to a safe machine For safe machinery, the supplier and user need to work together from the beginning. There are regulations for the protection of user personnel [3]
+Top Doc: safebk-rm002_-en-p.pdf
+Abstained: False
+Contexts:
+  - Rank: 1, Doc: safebk-rm002_-en-p.pdf
+    Score: 0.5930
+    URL: https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf
+    Text: Training. The machine supplier must specify what is appropriate. Suitable materials should be used for construction and operation. Adequate lighting and handling facilities should be provided. Control...
+  - Rank: 2, Doc: special_information_guide_for_safe_machinery_en_im0014678.pdf
+    Score: 0.7179
+    URL: https://www.sick.com/media/docs/8/78/678/special_information_guide_for_safe_machinery_en_im0014678.pdf
+    Text: typical applications. FOREWORD 6 S P E C I A L I N F O R M A T I O N | Guide for Safe Machinery 8007988/2024-10-21 | SICK Subject to change without notice For better orientation and guidance through t...
+  - Rank: 3, Doc: GuidelinesForSafeMachinery.pdf
+    Score: 0.7760
+    URL: https://www.rae.ca/wp-content/uploads/GuidelinesForSafeMachinery.pdf
+    Text: Guidelines for Safe Machinery Six steps to a safe machine Six steps to a safe machine Forward P - 2 Six steps to a safe machine For safe machinery, the supplier and user need to work together from the...
+------------------------------------------------------------
+
+Q: What training and qualifications are required for safe machine operation?  |  Mode: hybrid
+Answer: Training. The machine supplier must specify what is appropriate [1] Guidelines for Safe Machinery Six steps to a safe machine Six steps to a safe machine Forward P - 2 Six steps to a safe machine For safe machinery, the supplier and user need to work together from the beginning. There are regulations for the protection of user personnel [2] typical applications. FOREWORD 6 S P E C I A L I N F O R M A T I O N | Guide for Safe Machinery 8007988/2024-10-21 | SICK Subject to change without notice For better orientation and guidance through the guide, we ha ve divided the path to a safe machine into 6 main steps [3]
+Top Doc: safebk-rm002_-en-p.pdf
+Abstained: False
+Contexts:
+  - Rank: 1, Doc: safebk-rm002_-en-p.pdf
+    Score: 0.6744
+    URL: https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf
+    Text: Training. The machine supplier must specify what is appropriate. Suitable materials should be used for construction and operation. Adequate lighting and handling facilities should be provided. Control...
+  - Rank: 2, Doc: GuidelinesForSafeMachinery.pdf
+    Score: 0.5227
+    URL: https://www.rae.ca/wp-content/uploads/GuidelinesForSafeMachinery.pdf
+    Text: Guidelines for Safe Machinery Six steps to a safe machine Six steps to a safe machine Forward P - 2 Six steps to a safe machine For safe machinery, the supplier and user need to work together from the...
+  - Rank: 3, Doc: special_information_guide_for_safe_machinery_en_im0014678.pdf
+    Score: 0.4551
+    URL: https://www.sick.com/media/docs/8/78/678/special_information_guide_for_safe_machinery_en_im0014678.pdf
+    Text: typical applications. FOREWORD 6 S P E C I A L I N F O R M A T I O N | Guide for Safe Machinery 8007988/2024-10-21 | SICK Subject to change without notice For better orientation and guidance through t...
+------------------------------------------------------------
+
+Q: How do safety-related control systems reduce risk in machinery?  |  Mode: baseline
+Answer: the injury The objective of the subsequent procedure is to reduce the risk to an acceptable level. For this purpose, Figure 5 [1] or system should be heavily inﬂ uenced by the operating characteristics of the machine. This is extremely important as a system that impairs machine efﬁ ciency will render itself liable to unauthorised removal or bypassing [2] Figure 4.1 by the blocks 1 to 3, and is described in greater detail in Chapter 5 [3]
+Top Doc: rep22008e.pdf
+Abstained: False
+Contexts:
+  - Rank: 1, Doc: rep22008e.pdf
+    Score: 0.4272
+    URL: https://www.dguv.de/medien/ifa/en/pub/rep/pdf/rep07/biar0208/rep22008e.pdf
+    Text: the injury The objective of the subsequent procedure is to reduce the risk to an acceptable level. For this purpose, Figure 5.3 shows the proportions of risk reduction with and without safety-related ...
+  - Rank: 2, Doc: safebk-rm002_-en-p.pdf
+    Score: 0.4702
+    URL: https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf
+    Text: or system should be heavily inﬂ uenced by the operating characteristics of the machine. This is extremely important as a system that impairs machine efﬁ ciency will render itself liable to unauthorise...
+  - Rank: 3, Doc: rep22008e.pdf
+    Score: 0.4776
+    URL: https://www.dguv.de/medien/ifa/en/pub/rep/pdf/rep07/biar0208/rep22008e.pdf
+    Text: Figure 4.1 by the blocks 1 to 3, and is described in greater detail in Chapter 5. The question to be answered is: In what way do the safety-related parts of the control system contribute towards reduc...
+------------------------------------------------------------
+
+Q: How do safety-related control systems reduce risk in machinery?  |  Mode: hybrid
+Answer: the injury The objective of the subsequent procedure is to reduce the risk to an acceptable level. For this purpose, Figure 5 [1] Figure 4.1 by the blocks 1 to 3, and is described in greater detail in Chapter 5 [2] or system should be heavily inﬂ uenced by the operating characteristics of the machine. This is extremely important as a system that impairs machine efﬁ ciency will render itself liable to unauthorised removal or bypassing [3]
+Top Doc: rep22008e.pdf
+Abstained: False
+Contexts:
+  - Rank: 1, Doc: rep22008e.pdf
+    Score: 1.0000
+    URL: https://www.dguv.de/medien/ifa/en/pub/rep/pdf/rep07/biar0208/rep22008e.pdf
+    Text: the injury The objective of the subsequent procedure is to reduce the risk to an acceptable level. For this purpose, Figure 5.3 shows the proportions of risk reduction with and without safety-related ...
+  - Rank: 2, Doc: rep22008e.pdf
+    Score: 0.4545
+    URL: https://www.dguv.de/medien/ifa/en/pub/rep/pdf/rep07/biar0208/rep22008e.pdf
+    Text: Figure 4.1 by the blocks 1 to 3, and is described in greater detail in Chapter 5. The question to be answered is: In what way do the safety-related parts of the control system contribute towards reduc...
+  - Rank: 3, Doc: safebk-rm002_-en-p.pdf
+    Score: 0.3382
+    URL: https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf
+    Text: or system should be heavily inﬂ uenced by the operating characteristics of the machine. This is extremely important as a system that impairs machine efﬁ ciency will render itself liable to unauthorise...
+------------------------------------------------------------
+
+Q: What are common hazards associated with industrial robots?  |  Mode: baseline
+Answer: of hazards. Any power failure, lightning discharge, issues in equipment orientation, or potentially hazardous radiation are beyond control [1] industrial processes, which is resulting in a significant increase in productivity. Moreover, they are capable of performing various tasks in different industrial settings, which has further boosted their demand [2] the machinery, including the construction, installation, and disposal. Examples of typical hazards are illustrated below, though this is not an exhaustive list [3]
+Top Doc: Hokuyo-USA_-_A_Safety_Guide_to_Industrial_Robotics_Hazards_-_Whitepaper.pdf
+Abstained: False
+Contexts:
+  - Rank: 1, Doc: Hokuyo-USA_-_A_Safety_Guide_to_Industrial_Robotics_Hazards_-_Whitepaper.pdf
+    Score: 0.5131
+    URL: https://drive.google.com/file/d/11qKoiO5DLw9CKMW4os1ipqh_xKJJ6-w8/view?usp=sharing
+    Text: of hazards. Any power failure, lightning discharge, issues in equipment orientation, or potentially hazardous radiation are beyond control. However, these anomalies can affect the robot’s performance ...
+  - Rank: 2, Doc: Hokuyo-USA_-_A_Safety_Guide_to_Industrial_Robotics_Hazards_-_Whitepaper.pdf
+    Score: 0.5372
+    URL: https://drive.google.com/file/d/11qKoiO5DLw9CKMW4os1ipqh_xKJJ6-w8/view?usp=sharing
+    Text: industrial processes, which is resulting in a significant increase in productivity. Moreover, they are capable of performing various tasks in different industrial settings, which has further boosted t...
+  - Rank: 3, Doc: Machine-Safety-Brochure-Guide.pdf
+    Score: 0.5735
+    URL: https://drive.google.com/file/d/1RCSjylgHfACW0SeKVDKUzVz3bktAkA82/view?usp=sharing
+    Text: the machinery, including the construction, installation, and disposal. Examples of typical hazards are illustrated below, though this is not an exhaustive list.A more detailed list can be found in EN ...
+------------------------------------------------------------
+
+Q: What are common hazards associated with industrial robots?  |  Mode: hybrid
+Answer: industrial processes, which is resulting in a significant increase in productivity. Moreover, they are capable of performing various tasks in different industrial settings, which has further boosted their demand [1] A Safety Guide to Industrial Robotics Hazards HOKUYO USA 2019 Van Buren Ave., Suite A, Indian Trail, NC 28079 CONTACT 704-882-3844 info@hokuyo-usa [2] of hazards. Any power failure, lightning discharge, issues in equipment orientation, or potentially hazardous radiation are beyond control [3]
+Top Doc: Hokuyo-USA_-_A_Safety_Guide_to_Industrial_Robotics_Hazards_-_Whitepaper.pdf
+Abstained: False
+Contexts:
+  - Rank: 1, Doc: Hokuyo-USA_-_A_Safety_Guide_to_Industrial_Robotics_Hazards_-_Whitepaper.pdf
+    Score: 0.7524
+    URL: https://drive.google.com/file/d/11qKoiO5DLw9CKMW4os1ipqh_xKJJ6-w8/view?usp=sharing
+    Text: industrial processes, which is resulting in a significant increase in productivity. Moreover, they are capable of performing various tasks in different industrial settings, which has further boosted t...
+  - Rank: 2, Doc: Hokuyo-USA_-_A_Safety_Guide_to_Industrial_Robotics_Hazards_-_Whitepaper.pdf
+    Score: 0.6436
+    URL: https://drive.google.com/file/d/11qKoiO5DLw9CKMW4os1ipqh_xKJJ6-w8/view?usp=sharing
+    Text: A Safety Guide to Industrial Robotics Hazards HOKUYO USA 2019 Van Buren Ave., Suite A, Indian Trail, NC 28079 CONTACT 704-882-3844 info@hokuyo-usa.com Table of Contents What are Industrial Robots? The...
+  - Rank: 3, Doc: Hokuyo-USA_-_A_Safety_Guide_to_Industrial_Robotics_Hazards_-_Whitepaper.pdf
+    Score: 0.6307
+    URL: https://drive.google.com/file/d/11qKoiO5DLw9CKMW4os1ipqh_xKJJ6-w8/view?usp=sharing
+    Text: of hazards. Any power failure, lightning discharge, issues in equipment orientation, or potentially hazardous radiation are beyond control. However, these anomalies can affect the robot’s performance ...
+------------------------------------------------------------
+

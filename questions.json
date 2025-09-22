@@ -1,0 +1,42 @@
+[
+  {
+    "q": "What are safety measures in industrial machinery?",
+    "k": 3,
+    "mode": "hybrid"
+  },
+  {
+    "q": "What steps are recommended for safe design and guarding of machinery?",
+    "k": 3,
+    "mode": "hybrid"
+  },
+  {
+    "q": "What is functional safety and why is it important in machine design?",
+    "k": 3,
+    "mode": "hybrid"
+  },
+  {
+    "q": "What are the essential requirements of the EU Machinery Regulation 2023?",
+    "k": 3,
+    "mode": "hybrid"
+  },
+  {
+    "q": "What role does personal protective equipment (PPE) play in machinery safety?",
+    "k": 3,
+    "mode": "hybrid"
+  },
+  {
+    "q": "What training and qualifications are required for safe machine operation?",
+    "k": 3,
+    "mode": "hybrid"
+  },
+  {
+    "q": "How do safety-related control systems reduce risk in machinery?",
+    "k": 3,
+    "mode": "hybrid"
+  },
+  {
+    "q": "What are common hazards associated with industrial robots?",
+    "k": 3,
+    "mode": "hybrid"
+  }
+]

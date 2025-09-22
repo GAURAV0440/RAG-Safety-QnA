@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# FAISS and DB files (large / generated)
+data/*.db
+data/*.index
+data/*.npy
+
+# PDFs (large, don’t push raw docs)
+data/industrial-safety-pdfs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs / Outputs
+*.log

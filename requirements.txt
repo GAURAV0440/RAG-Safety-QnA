@@ -1,0 +1,8 @@
+faiss-cpu
+fastembed
+rank-bm25
+fastapi
+uvicorn
+pypdf
+sqlalchemy
+cryptography
